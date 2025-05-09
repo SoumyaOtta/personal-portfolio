@@ -3,7 +3,7 @@
 My personal portfolio website showcasing my work and skills.
 
 ## Live Demo
-The website is live at: [https://soumya-static-website.windsurf.build](https://soumya-static-website.windsurf.build)
+The website is live at: [https://soumya-static-website.windsurf.build]([https://soumya-static-website.windsurf.build](https://soumyaotta.github.io/personal-portfolio/))
 
 ## Technologies Used
 - HTML
